@@ -117,10 +117,10 @@ Then open http://127.0.0.1:5000 in your browser.
 
 | Name             | Role               | GitHub Profile                          |
 |------------------|--------------------|------------------------------------------|
-| Jadi Lathish   | Project Lead | https://github.com/kuruvamahesh77 |
-|   Siddanatham Sathya Sai      | Developer     | https://github.com/sathyasai-gif |
-|    B venkata Harsha Vardhan | Developer   |https://github.com/bharsha11567-source  |
-|   Batchu pavan Kumar | Developer | https://github.com/bat970 |
+| kuruva mahesh   | Project Lead | https://github.com/kuruvamahesh77 |
+|   madhavi      | Developer     | https://github.com/sathyasai-gif |
+|    manasa | Developer   |https://github.com/bharsha11567-source  |
+|   manisha | Developer | https://github.com/bat970 |
 
 ## 🎯 Use Cases-
 🏭 Factories: Automated sorting of fresh vs rotten produce
