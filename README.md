@@ -117,7 +117,7 @@ Then open http://127.0.0.1:5000 in your browser.
 
 | Name             | Role               | GitHub Profile                          |
 |------------------|--------------------|------------------------------------------|
-| Jadi Lathish   | Project Lead | https://github.com/Jadilathish |
+| Jadi Lathish   | Project Lead | https://github.com/kuruvamahesh77 |
 |   Siddanatham Sathya Sai      | Developer     | https://github.com/sathyasai-gif |
 |    B venkata Harsha Vardhan | Developer   |https://github.com/bharsha11567-source  |
 |   Batchu pavan Kumar | Developer | https://github.com/bat970 |
@@ -139,9 +139,9 @@ VGG16 – pre-trained model for transfer learning
 Flask – lightweight Python web framework
 
 # ✍️ Author
-## 🧑🏻‍💻 Jadi Lathish
-## 🔗 GitHub: https://github.com/Jadilathish
-## 🔗 LinkedIn: https://www.linkedin.com/in/lathish-jadi-551150287/
+## 🧑🏻‍💻 kuruva mahesh
+## 🔗 GitHub: https://github.com/kuruvamahesh77
+## 🔗 LinkedIn: https://www.linkedin.com/in/kuruva-mahesh-551150287/
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
